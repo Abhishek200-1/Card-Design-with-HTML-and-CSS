@@ -28,7 +28,7 @@ This project features a beautifully designed set of cards created using HTML and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/card-design.git
+   git clone https://github.com/Abhishek200-1/card-design.git
    ```
 2. Navigate to the project directory:
    ```bash
